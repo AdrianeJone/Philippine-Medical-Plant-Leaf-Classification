@@ -1,7 +1,7 @@
 # Philippine Medicinal Plant Leaf Classification: Classical ML vs. CNN Benchmark
 
-> **Course:** AI201 — Introduction to Artificial Intelligence / Machine Learning
-> **Team:** [Your Name] · [Partner's Name]
+> **Course:** AI201 — Introduction to Artificial Intelligence
+> **Team:** Adriane Jone Abunda · Joshua Cantor
 
 ---
 
